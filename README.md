@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @robbyf9
+- 👋 Hi, I’m robby!
 - 👀 I’m interested in web development
 - 🌱 I’m currently learning database 
 - 💞️ I’m looking to collaborate on some project, especially web app project.
