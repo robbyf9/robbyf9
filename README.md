@@ -1,6 +1,6 @@
-- 👋 Hi, I’m robby!
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning database 
+- 👋 Hello There! let's get acquainted!
+- 👀 I’m interested in app development lifecycle.
+- 🌱 I’m currently learning database.
 - ⚙️ My tech stack is Laravel, Vue, Codeigniter and have some experience with T-SQL and Stored Procedure in SQL Server. 
 - 📫 If you interested to collaborate with me, you can send a mail at febriansyahrobby9@gmail.com or in my linked in on this url : https://www.linkedin.com/in/robbyf. Im waiting for it!
 - 🌐 And also there's info about Covid-19 in Indonesia at this https://vico-19.web.app/ url. It was made by me and also seasoned with ❤️ haha.
