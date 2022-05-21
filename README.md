@@ -2,7 +2,7 @@
 - 👀 I’m interested in app development lifecycle.
 - 🌱 I’m currently learning database.
 - ⚙️ My tech stack is Laravel, Vue, Codeigniter and have some experience with T-SQL and Stored Procedure in SQL Server. 
-- 📫 If you interested to collaborate with me, you can send a mail at febriansyahrobby9@gmail.com. Im waiting for it!
+- 📫 If you interested to collaborate with me, you can send a mail to febriansyahrobby9@gmail.com or linkedin.com/in/robbyf my linkedin. Im waiting for it!
 - 🌐 And also there's info about Covid-19 in Indonesia at this https://vico-19.web.app/ url. It was made by me and also seasoned with ❤️ haha.
 
 <!---
